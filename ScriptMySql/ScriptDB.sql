@@ -1,9 +1,4 @@
 /** ===================================== script basico =================================
-*	fecha:		24/01/2022
-*	autor:		yonder quispe chura
-*	proyecto:	Prueba crud basico para el canal Code Team.
-* =====================================================================================
-*/
 
 CREATE DATABASE DBpruebaCodeTeam;
 USE DBpruebaCodeTeam;
